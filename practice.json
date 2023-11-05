@@ -14,10 +14,10 @@
             ]
         },
         {
-            "Name": "Brenda",
+            "Name": "Michelle",
             "Age": 23,
             "Gender": "Female",
-            "Hobbies": ["Sleeping", "Listening to music"]
+            "Hobbies": ["Sleeping", "Running"]
         }
     ]
 }
